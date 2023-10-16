@@ -1,0 +1,26 @@
+{
+  "name": "@easrng/sparkle",
+  "version": "0.0.0",
+  "description": "a zero-dependency web component implementing the MFM sparkle effect",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/easrng/sparkle.git"
+  },
+  "keywords": [
+    "misskey",
+    "mfm",
+    "webcomponent",
+    "web-component"
+  ],
+  "author": "easrng",
+  "license": "AGPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/easrng/sparkle/issues"
+  },
+  "homepage": "https://github.com/easrng/sparkle#readme",
+  "type": "module",
+  "files": [
+    "index.js"
+  ]
+}
